@@ -1,8 +1,9 @@
 # alfred-translate Workflow (Researching)
 Google translate for Alfer Workflow
 
-Note 1: I am just looking for a new way to get translations done with Alfred since the last workflow stoped working. If you want to give a hand, please leave an issue.
-Note 2: I have noticed when calling the request to the google api, they detected many submissions and they block for a moment my IP.
+*Note 1*: I am just looking for a new way to get translations done with Alfred since the last workflow stoped working. If you want to give a hand, please leave an issue.
+
+*Note 2*: I have noticed when calling the request to the google api, they detected many submissions and they block for a moment my IP.
 
 ### Todo: 
 - [ ] Get the correct query
